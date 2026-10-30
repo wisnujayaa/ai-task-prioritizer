@@ -1,0 +1,205 @@
+task_id,task_name,task_category,deadline_days,urgency,impact_score,estimated_hours,complexity,dependency_count,priority_level
+TASK-016,Belajar Kuis PBP,Kuis/Ujian,10,2,3,3.5,Medium,0,Medium
+TASK-010,Lab SDA,Praktikum,1,5,2,3.5,High,0,Critical
+TASK-116,Belajar bahasa Inggris,Pribadi,28,1,2,0.5,Low,0,Low
+TASK-079,PR Basdat,TUGAS KULIAH,16,1,4,4.0,Medium,0,Medium
+TASK-067,Laporan Praktikum Statprob,Praktikum,4,3,3,2.5,Low,0,Medium
+TASK-046,Tugas Basdat,Tugas Kuliah,16,1,3,3.0,Low,2,Medium
+TASK-133,Bayar kos,Pribadi,26,2,1,1.0,Low,0,Low
+TASK-162,Belajar Kuis Matdis 2,Kuis/Ujian,16,1,2,2.0,Low,0,Low
+TASK-174,Beres-beres kamar,Pribadi,28,1,2,1.0,Low,0,Low
+TASK-182,Update CV,Pribadi,15,1,1,1.5,Medium,0,Low
+TASK-070,Belanja bulanan,Pribadi,26,1,2,2.0,Low,0,Low
+TASK-164,Belajar Kuis Statprob,Kuis/Ujian,10,3,3,3.5,High,0,Medium
+TASK-168,PR SDA,Tugas Kuliah,1,5,4,3.0,Low,1,High
+TASK-153,Belajar UAS Alin,Kuis/Ujian,7,3,5,4.5,Low,0,High
+TASK-057,Tugas Kelompok Alin,Tugas Kuliah,21,1,3,7.0,High,0,Low
+TASK-192,Lab Alin,Praktikum,9,1,4,1.5,Low,1,Medium
+TASK-019,Lab Matdis 2,Praktikum,3,4,3,6.0,Low,0,Critical
+TASK-080,Belajar UAS Matdis 2,Kuis/Ujian,7,3,5,,High,0,Critical
+TASK-056,Olahraga,Pribadi,17,1,2,3.0,Medium,0,Low
+TASK-147,Tugas Kelompok Basdat,Tugas Kuliah,9,2,3,9.0,High,0,Medium
+TASK-178,Lab PBP,Praktikum,4,4,2,3.0,Low,0,Medium
+TASK-098,Belajar UTS PBP,Kuis/Ujian,17,1,5,8.5,High,0,High
+TASK-096,Update CV,Pribadi,17,1,1,3.0,Medium,0,Low
+TASK-031,Belajar UAS Statprob,Kuis/Ujian,11,2,5,13.0,Medium,0,Critical
+TASK-128,Tugas PBP,Tugas Kuliah,18,1,3,6.5,,0,Low
+TASK-017,Belajar UTS OS,Kuis/Ujian,14,2,5,8.0,Medium,0,High
+TASK-175,Belanja bulanan,Pribadi,12,2,1,1.5,Low,0,Low
+TASK-087,Belajar bahasa Inggris,Pribadi,3,4,1,0.5,Medium,0,Low
+TASK-136,Laporan Praktikum Matdis 2,Praktikum,9,1,3,5.0,Medium,0,Low
+TASK-125,Update CV,Pribadi,20,1,1,1.5,Low,0,Low
+TASK-066,Laporan Praktikum Statprob,Praktikum,9,2,2,3.0,Medium,0,Low
+TASK-069,Desain poster,Organisasi,8,2,2,2.5,Low,2,Medium
+TASK-129,Survei lokasi,Organisasi,1,4,1,4.5,Low,4,Critical
+TASK-068,Laporan Praktikum Statprob,Praktikum,1,5,3,4.0,Medium,0,Critical
+TASK-077,Cuci baju,Pribadi,19,1,1,1.0,Low,0,Low
+TASK-101,Tugas Alin,Tugas Kuliah,13,1,3,5.0,Low,0,Low
+TASK-141,Belajar UAS Statprob,Kuis/Ujian,7,3,5,7.5,High,0,Critical
+TASK-139,Laporan Praktikum Statprob,Praktikum,6,2,3,4.0,Medium,1,Medium
+TASK-145,PR PBP,Tugas Kuliah,6,3,2,9.0,High,0,Medium
+TASK-085,Belajar UAS OS,Kuis/Ujian,3,4,5,7.0,High,0,Critical
+TASK-083,Notulensi rapat,Organisasi,9,2,2,5.0,Medium,2,Low
+TASK-200,Update CV,Pribadi,17,1,1,2.0,Medium,0,Low
+TASK-094,Tutorial SDA,Praktikum,2,3,3,2.0,Low,0,Medium
+TASK-039,Bayar kos,Pribadi,2,4,1,1.0,Low,0,Low
+TASK-025,Belanja bulanan,Pribadi,3,4,2,2.5,Low,0,Medium
+TASK-097,Belajar Kuis PBP,Kuis/Ujian,18,1,2,2.0,Medium,0,Low
+TASK-112,Update CV,Pribadi,1,5,2,0.5,Low,0,Medium
+TASK-030,Survei lokasi,Organisasi,12,2,3,1.0,Low,2,Low
+TASK-020,Lab Alin,Praktikum,9,2,3,4.0,Medium,0,Medium
+TASK-061,Belajar UTS Alin,Kuis/Ujian,12,2,5,12.5,Medium,0,High
+TASK-156,Belajar UTS Alin,Kuis/Ujian,2,4,5,14.0,High,0,Critical
+TASK-169,Lab OS,Praktikum,8,7,2,,Low,0,Low
+TASK-091,Paper SDA,Tugas Kuliah,12,1,2,8.5,High,1,Low
+TASK-006,Tugas Kelompok SDA,Tugas Kuliah,15,1,4,5.0,Medium,1,Medium
+TASK-154,PR Jarkom,Tugas Kuliah,19,1,2,7.0,Medium,2,Low
+TASK-119,Lab SDA,Praktikum,1,5,3,5.0,Low,0,Critical
+TASK-194,Tutorial Jarkom,Praktikum,2,4,4,3.0,High,0,Critical
+TASK-144,Laporan Praktikum OS,Praktikum,2,5,2,5.5,Low,0,Critical
+TASK-191,Lab Statprob,Praktikum,4,3,4,4.0,Low,1,High
+TASK-177,Olahraga,Pribadi,28,1,1,1.5,Low,0,Low
+TASK-074,Belajar Kuis Statprob,Kuis/Ujian,15,1,2,3.0,Medium,0,Low
+TASK-174,Beres-beres kamar,Pribadi,28,1,2,1.0,Low,0,Low
+TASK-099,Belajar UAS PBP,Kuis/Ujian,18,1,5,12.0,Medium,0,High
+TASK-032,Belajar Kuis PBP,Kuis/Ujian ,16,1,3,2.5,Low,0,Low
+TASK-013,PR Alin,Tugas Kuliah,15,1,3,5.0,Medium,0,Low
+TASK-036,Rekap absensi,Organisasi,2,4,2,1.0,Medium,1,Medium
+TASK-121,Tutorial Jarkom,Praktikum,7,3,3,5.5,Medium,0,Medium
+TASK-043,Tugas Matdis 2,Tugas Kuliah,3,4,3,5.5,Medium,0,High
+TASK-076,Lab OS,Praktikum,3,3,3,5.0,Low,0,High
+TASK-198,PR Alin,Tugas Kuliah,4,3,4,3.0,Medium,0,High
+TASK-140,LPJ kegiatan,Organisasi,1,5,3,2.5,Medium,3,Critical
+TASK-052,Laporan Praktikum PBP,Praktikum,2,4,4,2.0,Low,0,High
+TASK-123,Tugas Kelompok PBP,Tugas Kuliah,1,5,2,9.5,High,0,Critical
+TASK-166,Tugas Kelompok Basdat,Tugas Kuliah,2,4,3,6.5,Medium,0,Critical
+TASK-042,Proposal acara,organisasi,12,2,3,3.0,Medium,2,Medium
+TASK-120,Belanja bulanan,Pribadi,24,1,1,0.5,Low,0,Low
+TASK-115,Belajar Kuis Statprob,Kuis/Ujian,12,2,3,3.0,Medium,0,Low
+TASK-027,Tugas Alin,Tugas Kuliah,2,5,2,2.5,Medium,1,High
+TASK-137,Bayar kos,Pribadi,9,3,2,0.5,Low,0,Low
+TASK-102,Laporan Praktikum OS,Praktikum,9,3,2,2.5,Low,0,Low
+TASK-113,Belajar bahasa Inggris,Pribadi,17,1,1,2.0,Low,0,Low
+TASK-003,Tugas Kelompok Alin,Tugas Kuliah,19,1,3,8.5,High,2,Medium
+TASK-078,PR Statprob,Tugas Kuliah,6,3,3,8.5,High,1,High
+TASK-047,Tugas Kelompok Matdis 2,Tugas Kuliah,13,2,2,9.5,High,3,Medium
+TASK-118,Belanja bulanan,Pribadi,28,1,1,1.0,Low,0,Low
+TASK-146,Belajar Kuis Basdat,Kuis/Ujian,7,3,3,2.0,Low,0,Medium
+TASK-086,Laporan Praktikum Jarkom,Praktikum,2,4,3,1.5,Medium,0,High
+TASK-138,Laporan Praktikum OS,Praktikum,4,3,3,4.5,Medium,1,High
+TASK-037,Paper Jarkom,Tugas Kuliah,13,1,2,3.5,Low,0,Low
+TASK-110,Tugas OS,Tugas Kuliah,16,1,2,1.0,Low,1,Low
+TASK-062,Tugas Basdat,Tugas Kuliah,6,3,4,7.5,Medium,1,Critical
+TASK-023,Belajar Kuis Alin,Kuis/Ujian,7,4,2,3.5,High,0,Medium
+TASK-165,Belajar Kuis Statprob,Kuis/Ujian,6,3,3,2.5,Medium,0,High
+TASK-196,Update CV,Pribadi,30,1,1,2.5,Low,0,Low
+TASK-034,Tugas Kelompok PBP,Tugas Kuliah,17,1,3,9.0,High,0,Low
+TASK-012,Rapat divisi,Organisasi,5,3,2,1.0,Low,2,Medium
+TASK-199,Update CV,Pribadi,17,1,1,1.0,Low,0,Low
+TASK-163,Tugas OS,Tugas Kuliah,8,1,4,2.5,Medium,0,Medium
+TASK-007,Desain poster,Organisasi,13,2,1,3.5,Low,1,Low
+TASK-028,Tutorial Jarkom,Praktikum,3,5,2,4.0,Medium,0,High
+TASK-195,Rekap absensi,Organisasi,9,2,1,4.5,Medium,4,Medium
+TASK-005,Desain poster,Organisasi,14,3,2,2.0,Low,2,Medium
+TASK-033,Notulensi rapat,Organisasi,7,3,1,4.0,,1,Low
+TASK-105,Bayar kos,Pribadi,2,3,2,1.5,Low,0,Medium
+TASK-149,Rekap absensi,Organisasi,14,2,3,4.0,Medium,4,High
+TASK-167,Notulensi rapat,Organisasi,3,4,2,1.5,Low,2,Medium
+TASK-148,Lab OS,Praktikum,7,3,2,4.5,High,0,Low
+TASK-011,Paper Alin,Tugas Kuliah,7,3,3,7.0,High,2,High
+TASK-063,Paper Statprob,Tugas Kuliah,10,2,2,2.5,Medium,0,Low
+TASK-114,Tugas Kelompok PBP,Tugas Kuliah,21,2,3,1.0,Medium,0,Low
+TASK-187,Proposal acara,Organisasi,4,3,3,2.0,Low,0,Medium
+TASK-173,Proposal acara,Organisasi,12,2,3,3.0,Medium,0,Low
+TASK-001,Notulensi rapat,Organisasi,7,3,1,3.5,Medium,5,Medium
+TASK-184,Belajar UAS Matdis 2, Kuis/Ujian,2,4,5,12.5,Medium,0,Critical
+TASK-157,Laporan Praktikum Statprob,Praktikum,4,3,3,3.0,,1,High
+TASK-071,Laporan Praktikum Matdis 2,Praktikum,2,4,4,2.0,Low,0,High
+TASK-127,Laporan Praktikum Statprob,Praktikum,5,2,4,,Low,0,Medium
+TASK-065,Belajar UAS PBP,Kuis/Ujian,14,2,5,5.5,Medium,0,High
+TASK-045,Belajar UAS Basdat,Kuis/Ujian,11,2,5,,High,0,High
+TASK-143,Lab SDA,Praktikum,3,3,3,2.0,Low,0,Medium
+TASK-029,Belajar Kuis Jarkom,Kuis/Ujian,3,4,3,3.0,Low,0,High
+TASK-041,Paper PBP,Tugas Kuliah,18,1,4,9.0,High,2,High
+TASK-109,Rapat divisi,Organisasi,5,3,2,4.0,Medium,1,Medium
+TASK-126,Olahraga,Pribadi,28,1,2,3.0,High,0,Low
+TASK-159,Tugas PBP,Tugas Kuliah,7,3,2,1.5,Low,0,Low
+TASK-124,PR PBP,Tugas Kuliah,5,2,3,2.5,Low,0,Medium
+TASK-160,PR Matdis 2,Tugas Kuliah,14,2,2,8.5,High,0,Low
+TASK-026,Desain poster,Organisasi,10,2,1,2.0,Low,3,Low
+TASK-024,Belajar UAS Jarkom,Kuis/Ujian,6,3,5,5.5,Low,0,Critical
+TASK-155,Belajar UTS Statprob,Kuis/Ujian,11,2,5,10.5,High,0,High
+TASK-151,Bayar kos,Pribadi,6,3,1,0.5,Medium,0,Low
+TASK-082,PR SDA,Tugas Kuliah,1,4,3,9.5,High,0,Critical
+TASK-040,Laporan Praktikum PBP,Praktikum,1,5,2,4.0,Low,1,Critical
+TASK-172,Beres-beres kamar,Pribadi,3,3,1,1.0,Low,0,Low
+TASK-048,Rekap absensi,Organisasi,12,2,1,5.0,Low,3,Low
+TASK-095,Lab Jarkom,Praktikum,8,1,4,3.5,Medium,0,Medium
+TASK-183,Belajar bahasa Inggris,Pribadi,26,1,1,,Medium,0,Low
+TASK-044,Lab SDA,Praktikum,2,4,4,3.0,Medium,1,Critical
+TASK-142,Belajar Kuis Statprob,Kuis/Ujian,16,1,3,3.5,Medium,0,Low
+TASK-004,Beres-beres kamar,Pribadi,24,2,1,1.0,Low,0,Low
+TASK-106,Cuci baju,Pribadi,1,5,1,1.0,Low,0,Medium
+TASK-054,Rekap absensi,Organisasi,6,3,2,4.5,Medium,1,Medium
+TASK-134,Tugas SDA,Tugas Kuliah,4,3,3,4.0,Medium,0,Medium
+TASK-185,Beres-beres kamar,Pribadi,12,2,2,1.0,Low,0,Low
+TASK-179,Desain poster,Organisasi,13,2,3,3.0,High,1,Medium
+TASK-190,Laporan Praktikum Statprob,Praktikum,8,2,2,6.0,High,0,Low
+TASK-050,Belajar UAS Matdis 2,Kuis/Ujian,18,1,5,5.0,Low,0,High
+TASK-081,Belajar Kuis Matdis 2,Kuis/Ujian,1,5,3,4.0,Low,0,Critical
+TASK-035,Belajar UAS Matdis 2,Kuis/Ujian,6,3,5,6.5,Medium,0,Critical
+TASK-008,Belajar UTS PBP,Kuis/Ujian,6,4,5,8.5,High,0,Critical
+TASK-111,Laporan Praktikum PBP,Praktikum,9,3,2,4.0,Medium,0,Low
+TASK-092,Update CV,Pribadi,21,1,2,1.5,Medium,0,Low
+TASK-084,Rekap absensi,Organisasi,9,2,1,4.5,Medium,3,Low
+TASK-181,Belajar Kuis Alin,Kuis/Ujian,13,2,3,3.0,Low,0,Low
+TASK-186,Beres-beres kamar,Pribadi,28,1,1,1.5,Low,0,Low
+TASK-090,Paper Basdat,Tugas Kuliah,11,2,2,7.0,High,0,Low
+TASK-009,Tugas Kelompok SDA,Tugas Kuliah,14,2,4,6.0,Medium,1,High
+TASK-014,Tugas PBP,Tugas Kuliah,8,2,3,9.0,High,0,Medium
+TASK-060,Cuci baju,Pribadi,24,1,2,2.0,Low,0,Low
+TASK-176,Tugas Jarkom,Tugas Kuliah,17,1,3,6.5,Medium,0,Low
+TASK-132,Notulensi rapat,Organisasi,4,2,2,3.0,Low,2,Medium
+TASK-018,Lab Alin,Praktikum,2,4,3,2.0,Medium,0,High
+TASK-073,Belajar Kuis Basdat,Kuis/Ujian,3,4,3,4.0,Medium,0,High
+TASK-104,Notulensi rapat,Organisasi,4,4,1,2.0,Low,2,Medium
+TASK-135,Paper Jarkom,Tugas Kuliah,21,1,3,8.5,Medium,0,Low
+TASK-171,Lab PBP,Praktikum,3,4,2,3.0,Medium,0,Medium
+TASK-188,Belajar UTS Matdis 2,Kuis/Ujian,4,4,5,8.0,High,0,Critical
+TASK-064,Rapat divisi,Organisasi,9,2,1,3.0,Medium,5,Medium
+TASK-055,Tugas Alin,Tugas Kuliah,10,2,2,8.5,High,0,Low
+TASK-108,Survei lokasi,Organisasi,5,3,2,4.5,High,3,High
+TASK-051,Tutorial Alin,Praktikum,7,4,2,4.5,Medium,1,Medium
+TASK-011,Paper Alin,Tugas Kuliah,7,3,3,7.0,High,2,High
+TASK-170,Paper Jarkom,Tugas Kuliah,3,4,3,3.0,Low,0,High
+TASK-059,Belajar UAS Alin,Kuis/Ujian,21,1,5,12.5,Medium,0,High
+TASK-049,Tugas Kelompok Statprob,Tugas Kuliah,1,5,3,5.0,Medium,2,Critical
+TASK-089,Rekap absensi,Organisasi,11,2,1,4.0,Medium,1,Low
+TASK-022,Tugas OS,Tugas Kuliah,14,1,4,7.5,High,0,Medium
+TASK-058,Paper Statprob,Tugas Kuliah,17,1,4,3.0,Low,1,Medium
+TASK-161,Belajar Kuis SDA,Kuis/Ujian,18,1,3,2.0,Low,0,Low
+TASK-197,Lab Statprob,Praktikum,2,4,3,2.0,Medium,0,High
+TASK-130,Rapat divisi,Organisasi,10,2,1,2.5,Medium,3,Low
+TASK-038,Tugas OS,Tugas Kuliah,10,2,3,7.0,High,0,Medium
+TASK-158,Laporan Praktikum Basdat,Praktikum,7,3,3,5.0,Low,1,High
+TASK-193,Tugas Kelompok OS,Tugas Kuliah,12,1,3,9.0,High,0,Medium
+TASK-002,Paper OS,Tugas Kuliah,10,2,4,4.5,High,1,High
+TASK-053,Belajar UTS Jarkom,Kuis/Ujian,20,1,5,9.0,High,0,High
+TASK-150,Tugas Kelompok Matdis 2,Tugas Kuliah,14,2,3,3.5,Medium,0,Low
+TASK-131,Lab SDA,Praktikum,5,3,2,2.5,Medium,0,Low
+TASK-152,Paper Basdat,Tugas Kuliah,13,2,4,4.5,Low,0,Medium
+TASK-104,Notulensi rapat,Organisasi,4,4,1,2.0,Low,2,Medium
+TASK-100,Tugas Kelompok SDA,Tugas Kuliah,7,4,3,5.5,High,0,High
+TASK-117,Paper Matdis 2,Tugas Kuliah,19,2,3,4.5,High,0,Low
+TASK-088,Rapat divisi,Organisasi,1,5,1,2.0,Low,1,High
+TASK-075,Tugas Basdat,Tugas Kuliah,9,3,3,10.0,High,2,High
+TASK-122,Lab Alin,Praktikum,6,4,2,3.5,Medium,0,Medium
+TASK-171,Lab PBP,Praktikum,3,4,2,3.0,Medium,0,Medium
+TASK-021,Laporan Praktikum PBP,Praktikum,4,3,2,5.5,Low,0,Medium
+TASK-189,Belajar Kuis SDA,Kuis/Ujian,10,2,2,1.5,Low,0,Low
+TASK-072,PR Basdat,Tugas Kuliah,2,5,4,1.0,Low,2,Critical
+TASK-107,Tugas Kelompok Alin,Tugas Kuliah,5,4,2,8.5,High,2,High
+TASK-015,Survei lokasi,Organisasi,7,4,1,80.0,Low,5,Medium
+TASK-093,Paper Alin,Tugas Kuliah,9,2,3,2.0,Low,3,Medium
+TASK-180,Belajar UTS Statprob,Kuis/Ujian,21,1,5,13.5,High,0,High
+TASK-103,Paper SDA,Tugas Kuliah,4,3,3,5.5,Medium,0,High
